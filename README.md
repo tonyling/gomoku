@@ -1,5 +1,5 @@
-Author: Tony Ling
-Originally code for HW#3 for W4701 Fall 2013 @ Columbia University
+Author: Tony Ling  
+Originally code for HW#3 for W4701 Fall 2013 @ Columbia University  
 gitHub: tling
 ### Instructions ingame
 
